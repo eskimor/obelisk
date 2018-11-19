@@ -1,7 +1,7 @@
 {
-  "owner": "reflex-frp",
+  "owner": "eskimor",
   "repo": "reflex-platform",
-  "branch": "develop",
-  "rev": "a7cd9a23e7faa9c2545a4c111229e28208e42351",
-  "sha256": "0y52rfrhk4zszgprpyni51l0pgq18dg695k5bmpd62c3zxar5mvm"
+  "branch": "rk-fix-xhr-duplicates",
+  "rev": "966cc86cd29a13136422d82c4522eff5b02d6947",
+  "sha256": "1r20ynvg66sas5ikbvqcvjkzhq77m03h8gb908f803k18zzj4pdm"
 }
